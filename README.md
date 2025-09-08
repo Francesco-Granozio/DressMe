@@ -41,31 +41,31 @@ Assets live under `DressMe/Demo/`. Below are the key moments.
 
 Shows the live camera preview, a button to scan the current frame, a mute button to stop speech, and a chat button to open conversation.
 
-<img src="./DressMe/Demo/pre_scan.jpg" alt="Initial screen" width="360">
+<img src="./DressMe/Demo/pre_scan.jpg" alt="Initial screen" width="360" height="600" style="object-fit: contain;">
 
 ### 2) Processing state
 
 After tapping Scan, the UI shows a loading state while the app uploads the current frame to the model and waits for the response.
 
-<img src="./DressMe/Demo/processing.jpg" alt="Processing" width="360">
+<img src="./DressMe/Demo/processing.jpg" alt="Processing" width="360" height="600" style="object-fit: contain;">
 
 ### 3) Speaking advice
 
 The model returns a short styling tip; it is displayed and spoken aloud using natural TTS.
 
-<img src="./DressMe/Demo/speaking.jpg" alt="Speaking" width="360">
+<img src="./DressMe/Demo/speaking.jpg" alt="Speaking" width="360" height="600" style="object-fit: contain;">
 
 ### 4) Opening chat
 
 Tapping the chat button presents a simple chat where you can type a message to ask for follow‑up advice.
 
-<img src="./DressMe/Demo/chatting.jpg" alt="Chat open" width="360">
+<img src="./DressMe/Demo/chatting.jpg" alt="Chat open" width="360" height="600" style="object-fit: contain;">
 
 ### 5) Chat response
 
 The model’s text response is shown in the chat as a concise, practical suggestion.
 
-<img src="./DressMe/Demo/chat_response.jpg" alt="Chat response" width="360">
+<img src="./DressMe/Demo/chat_response.jpg" alt="Chat response" width="360" height="600" style="object-fit: contain;">
 
 ---
 
