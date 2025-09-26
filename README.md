@@ -73,11 +73,11 @@ The model’s text response is shown in the chat as a concise, practical suggest
 
 If your Git provider supports inline video rendering, you should see a player below. Otherwise, use the download link.
 
-<video src="./DressMe/Demo/demo_video.mov" controls width="640">
+<video src="./DressMe/Demo/demo_video.mp4" controls width="640">
   Your browser does not support the video tag. You can download the video below.
 </video>
 
-[Download the demo video](./DressMe/Demo/demo_video.mov)
+[Download the demo video](./DressMe/Demo/demo_video.mp4)
 
 ---
 
