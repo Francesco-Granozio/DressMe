@@ -71,7 +71,8 @@ The model’s text response is shown in the chat as a concise, practical suggest
 
 ## Demo video 🎥
 
-https://github.com/Francesco-Granozio/DressMe/blob/main/DressMe/Demo/demo_video.mp4
+https://github.com/user-attachments/assets/057ac950-7d20-469e-878e-e2432ed67513
+
 
 *Note: The video above shows the complete demo walkthrough of the DressMe app in action.*
 
